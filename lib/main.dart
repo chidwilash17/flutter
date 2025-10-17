@@ -94,8 +94,8 @@ class _MovieListScreenState extends State<MovieListScreen>
   bool csvIsLoaded = false;
 
   // API Keys
-  final String omdbApiKey = '52709a6e';
-  final String youtubeApiKey = 'AIzaSyAhF6uwssiJtYSqW_WDk_Rf9Os1wTc0_Kk';
+  final String omdbApiKey = '';
+  final String youtubeApiKey = '';
 
   // Language options
   final List<String> languages = [
