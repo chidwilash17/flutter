@@ -1,0 +1,63 @@
+director_id,director_name,movie_title,industry
+1,Christopher Nolan,Oppenheimer,Hollywood
+1,Christopher Nolan,Tenet,Hollywood
+1,Christopher Nolan,Dunkirk,Hollywood
+1,Christopher Nolan,Interstellar,Hollywood
+1,Christopher Nolan,The Dark Knight Rises,Hollywood
+1,Christopher Nolan,Inception,Hollywood
+1,Christopher Nolan,The Dark Knight,Hollywood
+1,Christopher Nolan,The Prestige,Hollywood
+1,Christopher Nolan,Batman Begins,Hollywood
+1,Christopher Nolan,Insomnia,Hollywood
+1,Christopher Nolan,Memento,Hollywood
+1,Christopher Nolan,Following,Hollywood
+2,James Cameron,Avatar: The Way of Water,Hollywood
+2,James Cameron,Avatar,Hollywood
+2,James Cameron,Titanic,Hollywood
+2,James Cameron,True Lies,Hollywood
+2,James Cameron,Terminator 2: Judgment Day,Hollywood
+2,James Cameron,The Abyss,Hollywood
+2,James Cameron,Aliens,Hollywood
+2,James Cameron,The Terminator,Hollywood
+3,S.S. Rajamouli,RRR,Telugu
+3,S.S. Rajamouli,Baahubali 2: The Conclusion,Telugu
+3,S.S. Rajamouli,Baahubali: The Beginning,Telugu
+3,S.S. Rajamouli,Eega,Telugu
+3,S.S. Rajamouli,Magadheera,Telugu
+3,S.S. Rajamouli,Chatrapathi,Telugu
+3,S.S. Rajamouli,Simhadri,Telugu
+4,Sukumar,Pushpa 2: The Rule,Telugu
+4,Sukumar,Pushpa: The Rise,Telugu
+4,Sukumar,Rangasthalam,Telugu
+4,Sukumar,Nannaku Prematho,Telugu
+4,Sukumar,1: Nenokkadine,Telugu
+4,Sukumar,Arya 2,Telugu
+4,Sukumar,Arya,Telugu
+5,Trivikram Srinivas,Ala Vaikunthapurramuloo,Telugu
+5,Trivikram Srinivas,Aravinda Sametha Veera Raghava,Telugu
+5,Trivikram Srinivas,A Aa,Telugu
+5,Trivikram Srinivas,S/O Satyamurthy,Telugu
+5,Trivikram Srinivas,Attarintiki Daredi,Telugu
+5,Trivikram Srinivas,Julayi,Telugu
+6,Steven Spielberg,The Fabelmans,Hollywood
+6,Steven Spielberg,Ready Player One,Hollywood
+6,Steven Spielberg,Lincoln,Hollywood
+6,Steven Spielberg,Saving Private Ryan,Hollywood
+6,Steven Spielberg,Jurassic Park,Hollywood
+6,Steven Spielberg,Schindler's List,Hollywood
+6,Steven Spielberg,E.T. the Extra-Terrestrial,Hollywood
+6,Steven Spielberg,Jaws,Hollywood
+7,Rajkumar Hirani,Dunki,Hindi
+7,Rajkumar Hirani,Sanju,Hindi
+7,Rajkumar Hirani,PK,Hindi
+7,Rajkumar Hirani,3 Idiots,Hindi
+7,Rajkumar Hirani,Lage Raho Munna Bhai,Hindi
+7,Rajkumar Hirani,Munna Bhai M.B.B.S.,Hindi
+8,Lokesh Kanagaraj,Leo,Tamil
+8,Lokesh Kanagaraj,Vikram,Tamil
+8,Lokesh Kanagaraj,Master,Tamil
+8,Lokesh Kanagaraj,Kaithi,Tamil
+9,Prashanth Neel,Salaar,Kannada
+9,Prashanth Neel,KGF Chapter 2,Kannada
+9,Prashanth Neel,KGF Chapter 1,Kannada
+9,Prashanth Neel,Ugramm,Kannada
